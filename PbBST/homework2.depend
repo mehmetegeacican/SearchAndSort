@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1541003183 source:c:\users\ege\desktop\bilkent\3.sinif_1.donem\cs202\homeworks\homework2 remake\homework2\pbbst.cpp
+	<iostream>
+	<string>
+	"PbBST.h"
+
+1541003206 c:\users\ege\desktop\bilkent\3.sinif_1.donem\cs202\homeworks\homework2 remake\homework2\pbbst.h
+	<string>
+	"PbBSTNode.h"
+
+1541000983 c:\users\ege\desktop\bilkent\3.sinif_1.donem\cs202\homeworks\homework2 remake\homework2\pbbstnode.h
+	<string>
+
+1541050192 source:c:\users\ege\desktop\bilkent\3.sinif_1.donem\cs202\homeworks\homework2 real\homework2\pbbst.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	"PbBST.h"
+
+1541015472 c:\users\ege\desktop\bilkent\3.sinif_1.donem\cs202\homeworks\homework2 real\homework2\pbbst.h
+	<string>
+	"PbBSTNode.h"
+
+1541000983 c:\users\ege\desktop\bilkent\3.sinif_1.donem\cs202\homeworks\homework2 real\homework2\pbbstnode.h
+	<string>
+
+1541010868 source:c:\users\ege\desktop\bilkent\3.sinif_1.donem\cs202\homeworks\homework2 real\homework2\analysis.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	"PbBST.h"
+
+1541607814 source:c:\users\ege\desktop\bilkent\3.sinif_1.donem\cs202\homeworks\homework2_real\homework_2\pbbst.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	"PbBST.h"
+
+1541068722 c:\users\ege\desktop\bilkent\3.sinif_1.donem\cs202\homeworks\homework2_real\homework_2\pbbst.h
+	<string>
+	"PbBSTNode.h"
+
+1541000983 c:\users\ege\desktop\bilkent\3.sinif_1.donem\cs202\homeworks\homework2_real\homework_2\pbbstnode.h
+	<string>
+
+1541068597 source:c:\users\ege\desktop\bilkent\3.sinif_1.donem\cs202\homeworks\homework2_real\homework_2\analysis.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	"PbBST.h"
+
+1541068288 c:\users\ege\desktop\bilkent\3.sinif_1.donem\cs202\homeworks\homework2_real\homework_2\analysis.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	"PbBST.h"
+
+1541068589 c:\users\ege\desktop\bilkent\3.sinif_1.donem\cs202\homeworks\homework2_real\homework_2\analysis.h
+
+1541607783 source:c:\users\ege\desktop\bilkent\3.sinif_1.donem\cs202\homeworks\homework2_real\homework_2\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	"PbBST.h"
+	"analysis.h"
+
+1541070812 source:c:\users\ege\desktop\bilkent\3.sinif_1.donem\cs202\homeworks\homework2_real\homework_2\queue.cpp
+
